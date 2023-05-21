@@ -1,2 +1,8 @@
-# DataStructure---Linkedlist-p1-
-implement a Linkedlist with C#
+# Readme:
+ 
+---
+ 
+<h2 align='center'>Implement Linkedlist in C#</h2>
+<h3 quote align='center'>Data Structure</h3 quote>
+ 
+---
